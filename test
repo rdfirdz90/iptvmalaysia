@@ -1,21 +1,38 @@
-group,Myfreeview
-tv1-lt,TV 1,http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
-tv2.hu,TV 2,http://iptv.tvmalaysia.cc:80/penang172/penang172/7178
-VirginMediaOne.ie,TV 3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
-ext,TV Al Hijrah,http://iptv.tvmalaysia.cc:80/penang172/penang172/6834
-TVS.pl,TVS,https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-ext,Awesome TV,http://123.456.789
-ext,OKEY,http://123.456.789
-ext,Didik TV,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
-8-kanal,8 TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-ext,TV 9,http://iptv.tvmalaysia.cc:80/penang172/penang172/7185
+#EXTM3U
+#EXTINF:0 tvg-id="tv1-lt" group-title="Myfreeview",TV 1
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7177
+#EXTINF:0 tvg-id="tv2.hu" group-title="Myfreeview",TV 2
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7178
+#EXTINF:0 tvg-id="VirginMediaOne.ie" group-title="Myfreeview",TV 3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Myfreeview",TV Al Hijrah
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6834
+#EXTINF:0 tvg-id="TVS.pl" group-title="Myfreeview",TVS
+https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Myfreeview",Awesome TV
+http://123.456.789
+#EXTINF:0 tvg-id="ext" group-title="Myfreeview",OKEY
+http://123.456.789
+#EXTINF:0 tvg-id="ext" group-title="Myfreeview",Didik TV
+http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
+#EXTINF:0 tvg-id="8-kanal" group-title="Myfreeview",8 TV
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Myfreeview",TV 9
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7185
 
-group,Astro | Aneka Melayu
-ext,Astro Ria,http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
-ext,Astro Prima,http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
-ext,Astro Oasis,http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
-ext,Astro Warna,http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
-ext,Astro Naura,http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
-ext,Astro Rania,http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
-ext,Astro Aura,http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
-Colors.uk,Colors,http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
+#EXTINF:0 tvg-id="ext" group-title="Astro | Aneka Melayu",Astro Ria
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6730
+#EXTINF:0 tvg-id="ext" group-title="Astro | Aneka Melayu",Astro Prima
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6727
+#EXTINF:0 tvg-id="ext" group-title="Astro | Aneka Melayu",Astro Oasis
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6725
+#EXTINF:0 tvg-id="ext" group-title="Astro | Aneka Melayu",Astro Warna
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6740
+#EXTINF:0 tvg-id="ext" group-title="Astro | Aneka Melayu",Astro Naura
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6724
+#EXTINF:0 tvg-id="ext" group-title="Astro | Aneka Melayu",Astro Rania
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6729
+#EXTINF:0 tvg-id="ext" group-title="Astro | Aneka Melayu",Astro Aura
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6713
+#EXTINF:0 tvg-id="Colors.uk" group-title="Astro | Aneka Melayu",Colors
+http://iptv.tvmalaysia.cc:80/penang172/penang172/6769
