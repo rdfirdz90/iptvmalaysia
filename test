@@ -5,8 +5,6 @@ https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891736
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891739
 #EXTINF:-1 tvg-chno="103" tvg-id="VirginMediaOne.ie" tvg-name="TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia",TV 3
 https://m3u-editor.com/serve/00650a80-d16b-11eb-a003-876425f879d4/320891742
-#EXTINF:-1 tvg-chno="103" tvg-id="VirginMediaOne.ie" tvg-name="TV 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1280px-TV3_%28Malaysia%29.svg.png" group-title="Malaysia",TV 3 HD
-http://iptv.tvmalaysia.cc:80/penang172/penang172/8750
 #EXTINF:-1 tvg-id="ext" tvg-name="RTM Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" group-title="Malaysia",RTM Sports
 http://iptv.tvmalaysia.cc:80/penang172/penang172/7186
 #EXTINF:-1 tvg-id="ext" tvg-name="Bernama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Bernama_%28logo%29.jpg" group-title="Malaysia",Bernama
